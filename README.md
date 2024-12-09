@@ -8,7 +8,7 @@ frontend-inventario / Instrucciones
 
 ![image](https://github.com/user-attachments/assets/fe18ee77-b204-48da-af1b-3ebc63fb585f)
 
-3- Entrada de inventarios realliza la rngtrada de productos
+3- Entrada de productos al inventario
 
 ![image](https://github.com/user-attachments/assets/b34c20cb-d156-4316-abd0-809c8eaa986f)
 
